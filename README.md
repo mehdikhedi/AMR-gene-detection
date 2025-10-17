@@ -19,14 +19,14 @@ AMR-gene-detection/
 ├── data/
 │   ├── resistance_genes_reference.csv   # Example AMR gene catalog
 │   ├── sample_sequences.fasta           # Demo isolate sequences
-│   └── amr_matches_report.csv           # Generated report (Day 2)
+│   └── amr_matches_report.csv           # Generated report
 ├── notebooks/
 │   └── AMR_demo.ipynb                   # Interactive exploration notebook
 ├── src/
 │   ├── compare_to_reference.py          # Sequence comparison logic
 │   └── report_generator.py              # Report orchestration & CSV export
 ├── requirements.txt                     # Project dependencies
-└── README.md                            # (Day 3) final documentation deliverable
+└── README.md                            # Final documentation deliverable
 ```
 
 ## Quick Start
@@ -105,14 +105,14 @@ AMR-gene-detection/
 ├── data/
 │   ├── resistance_genes_reference.csv   # Petit catalogue AMR d'exemple
 │   ├── sample_sequences.fasta           # Séquences d'isolats de démonstration
-│   └── amr_matches_report.csv           # Rapport généré (Jour 2)
+│   └── amr_matches_report.csv           # Rapport généré
 ├── notebooks/
 │   └── AMR_demo.ipynb                   # Notebook d'exploration interactive
 ├── src/
 │   ├── compare_to_reference.py          # Logique de comparaison de séquences
 │   └── report_generator.py              # Génération du rapport et export CSV
 ├── requirements.txt                     # Dépendances du projet
-└── README.md                            # (Jour 3) documentation finale
+└── README.md                            # Documentation finale
 ```
 
 ## Mise en route
